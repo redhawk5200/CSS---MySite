@@ -3,10 +3,30 @@ body{
   margin: 0;
 }
 
-div{
+.top-container{
   background-color: #FFE7BF;
+  height: 200px;
+  width: 200px;
+  border: solid 10px;
+  padding: 20px;
 }
 
 h1{
   margin-top: 0;
+}
+
+.middle-container{
+  height: 200px;
+  width: 200px;
+  margin-left: 260px;
+  border: solid 20px;
+  background-color: blue;
+}
+
+.bottom-container{
+  height: 200px;
+  width: 200px;
+  margin-left: 500px;
+  border: solid 10px;
+  background-color: red;
 }
